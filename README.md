@@ -192,13 +192,6 @@ python scripts/validate.py
 6. DLQ retry
 
 
-
-## Demo Video
-
-Record a CLI demo and add your link here:
-
-`[Demo Video Link](https://your-drive-link)`
-
 ## Project Structure
 
 ```
