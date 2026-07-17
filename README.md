@@ -191,10 +191,15 @@ python scripts/validate.py
 5. Persistence across service restarts
 6. DLQ retry
 
+## 🎥 Demo Video
+
+Watch the complete project demonstration here.
+
+👉 https://drive.google.com/file/d/1frUhn5rvdjzTiJpdJzHG5XENQk7mGoTO/view
 
 ## Project Structure
 
-```
+```text
 queuectl/
 ├── src/queuectl/
 │   ├── cli.py          # Typer CLI entrypoint
@@ -210,6 +215,5 @@ queuectl/
 ├── pyproject.toml
 └── README.md
 ```
-
 
 
