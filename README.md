@@ -19,7 +19,7 @@ A CLI-based background job queue system with worker processes, exponential backo
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Anushka7237/queuectl.git
 cd queuectl
 
 python -m venv .venv
